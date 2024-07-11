@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @version V1.0
  * @ClassName
- * @Description
+ * @Description 通信服务
  * @Author fourfaith_lwj1
  * @Date 2024-07-02 19:44
  */
